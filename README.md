@@ -8,10 +8,7 @@ of examples that should be rejected by the regex.
 The initial state of this repository has all tests passing. Feel free
 to introduce bugs to the student assignment and see how RiceChecks responds.
 
-You can see the Travis-CI results if you visit the "Commits" tab. If you
-clone this repository, you'll need to separately activate Travis-CI
-on your clone. Then, every time you commit a change, Travis will run the
-autograder. Of course, you can always run the `autograder` task locally.
+This repo lets us test out our ability to run a Gradle task using GitHub Actions!
 
 ## Gitpod
 
